@@ -13,3 +13,6 @@ This is an app prototype that allows the user to manage their courses, assignmen
   <img src="5.png" width="300">
   <img src="6.png" width="300">
 </p>
+
+# Figma Design
+[Figma Design](https://www.figma.com/proto/9uOIHkk0QB2vxEs0680K00/OmarAbouChaer2?node-id=0-1&t=GYKw6ICc72rlbX8o-1)
