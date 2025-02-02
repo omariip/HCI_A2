@@ -17,6 +17,7 @@ This is an app prototype that allows the user to manage their courses, assignmen
 # Figma Design
 [Figma Design](https://www.figma.com/proto/9uOIHkk0QB2vxEs0680K00/OmarAbouChaer2?node-id=0-1&t=GYKw6ICc72rlbX8o-1)
 
+# Top 5 Desirable Functionalities
 <ol>
   <li>AI Study Assistant: AI will summarize notes, generate flashcards, and provide study tips</li>
   <li>Customized Notification: the app will analyze the user’s progress and send personalized reminders, like “Assignment is almost due in 4 days, try starting soon”</li>
