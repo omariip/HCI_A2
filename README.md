@@ -16,3 +16,11 @@ This is an app prototype that allows the user to manage their courses, assignmen
 
 # Figma Design
 [Figma Design](https://www.figma.com/proto/9uOIHkk0QB2vxEs0680K00/OmarAbouChaer2?node-id=0-1&t=GYKw6ICc72rlbX8o-1)
+
+<ol>
+  <li>AI Study Assistant: AI will summarize notes, generate flashcards, and provide study tips</li>
+  <li>Customized Notification: the app will analyze the user’s progress and send personalized reminders, like “Assignment is almost due in 4 days, try starting soon”</li>
+  <li>Course Feedback: allows students to provide anonymous feedback for the course and the prof</li>
+  <li>Interactive Course Map: visually represents a course roadmap with quizzes, assignments, and tests in an interactive timeline</li>
+  <li>Live Lecture with AI-Generated Notes: instructors can host lectures and auto-record and transcribe them. Then AI generates a downloadable PDF summary</li>
+</ol>
